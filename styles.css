@@ -47,11 +47,11 @@ form .header h1 {
   margin-bottom: 13px;
 }
 
-form .header p {
+form .header .text {
   font-weight: 300;
   font-size: 20px;
   color: #000000;
-  line-height: 23px;
+  line-height: 30px;
 }
 
 form .ask-action h3 {
@@ -89,6 +89,7 @@ form .form .input .field input {
   font-size: 20px;
   line-height: 23px;
   width: 100%;
+  background-color: transparent;
 }
 
 form .form .input .field input::-webkit-input-placeholder {
@@ -154,6 +155,14 @@ footer span a {
 footer img {
   position: absolute;
   right: 10px;
+}
+
+mark {
+  background-color: #FEE3BF;
+}
+
+.underline {
+  border-bottom: 1px solid black;
 }
 
 @media only screen and (min-width: 600px) {
