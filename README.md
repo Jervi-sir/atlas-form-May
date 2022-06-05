@@ -11,6 +11,7 @@ must change index file everytime since idont want a multiple redirection of one 
 [if event](https://atlas-event.netlify.app/).    atlas-event.netlify.app/
 
 <br>
+
 [if formation](https://atlas-formation.netlify.app/).    atlas-formation.netlify.app/
 
 
