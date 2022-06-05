@@ -9,7 +9,6 @@ Its for event/Formation only, not the club join
 must change index file everytime since idont want a multiple redirection of one index.html to event or formation html
 
 [if event](https://atlas-event.netlify.app/).    atlas-event.netlify.app/
-
 <br>
 
 [if formation](https://atlas-formation.netlify.app/).    atlas-formation.netlify.app/
