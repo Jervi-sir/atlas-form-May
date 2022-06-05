@@ -8,12 +8,8 @@ Its for event/Formation only, not the club join
 ## links possible
 must change index file everytime since idont want a multiple redirection of one index.html to event or formation html
 
-if event
-https://atlas-event.netlify.app/
-
-if formation
-https://atlas-formation.netlify.com
-
+[if event](https://atlas-event.netlify.app/).    atlas-event.netlify.app/
+[if formation](https://atlas-formation.netlify.app/).    atlas-formation.netlify.app/
 
 
 # Preview
